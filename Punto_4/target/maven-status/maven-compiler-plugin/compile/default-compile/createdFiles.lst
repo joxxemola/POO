@@ -1,0 +1,5 @@
+modelo\Grupo.class
+modelo\Materia.class
+principal\Main.class
+vista\VistaMateria.class
+controlador\ControladorMateria.class
